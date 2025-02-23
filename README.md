@@ -22,6 +22,6 @@ Filters: next to the search bar. can be used to filter anime with following [Nam
 
 Add button: select anime from the "enter" state. ("enter" state is when you search for an anime with the search bar and press enter). Adds only the selected anime.
 
-please do request any new features to my dm: @a_persan. 
+please do request any new features to my dm on discord: @a_persan. 
 feel free to use and modify source.
 crediting will be appreciated.
