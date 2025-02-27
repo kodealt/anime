@@ -1,5 +1,6 @@
 # anime
 a simple gui made to keep track of your anime. 100% in python.
+an anime list tracker, of sorts.
 
 # instructions
 this is a pretty straightforward gui. There are 5 main elements to this:
